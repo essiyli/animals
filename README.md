@@ -4,4 +4,4 @@ requirements:
 pandas,
 matplotlib,
 seaborn,
-streamlit,
+streamlit
